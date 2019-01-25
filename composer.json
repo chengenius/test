@@ -5,5 +5,6 @@
     "psr-4": {
       "Chengenius\\Test\\": "src/"
     }
-  }
+  },
+  "minimum-stability":"dev"
 }
