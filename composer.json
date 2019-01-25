@@ -1,0 +1,9 @@
+{
+  "name": "chengenius/test",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Chengenius\\Test\\": "src/"
+    }
+  }
+}
